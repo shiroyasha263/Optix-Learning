@@ -23,3 +23,5 @@ Now I am trying to make a guide for Optix as I too learn myself, kind of like a 
 
 ## Doubts
 - [ ] Check out the doubts folder in the code file
+![Doubt 1](https://github.com/shiroyasha263/Optix-Learning/blob/main/Doubts/1_Aug_8.png)
+![Doubt 2](https://github.com/shiroyasha263/Optix-Learning/blob/main/Doubts/2_Aug_8.png)
