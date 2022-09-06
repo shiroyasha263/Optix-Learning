@@ -26,11 +26,11 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-OPTIX_add_sample_executable( optixHello target_name
-  ${SAMPLES_CUDA_DIR}/helpers.h
-  draw_solid_color.cu
-  optixHello.cpp
-  optixHello.h
+OPTIX_add_sample_executable( optixTriangle target_name
+  ${SAMPLES_CUDA_DIR}/
+  optixTriangle.cu
+  optixTriangle.cpp
+  optixTriangle.h
 
   OPTIONS -rdc true
   )
