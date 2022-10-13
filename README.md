@@ -2,7 +2,7 @@
 Now I am trying to make a guide for Optix as I too learn myself, kind of like a blog? I'll try to make it as understandable as possible
 
 ## Where to start learning
-1. [This](https_developer.nvidia.com/?url=https%3A%2F%2Fdeveloper.nvidia.com%2Fblog%2Fhow-to-get-started-with-optix-7%2F) is one of the best starting point
+1. [This](https://developer.nvidia.com/blog/how-to-get-started-with-optix-7/) is one of the best starting point
 > I will keep adding to the list so dont worry about that
 ### Miscellaneous
 * [OPTIX programming guide](https://raytracing-docs.nvidia.com/optix7/guide/index.html#preface#preface)
